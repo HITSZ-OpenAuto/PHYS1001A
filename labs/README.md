@@ -1,26 +1,2 @@
-<<<<<<< HEAD
 # 使用说明
->贡献者：
-=======
-# labs
-
-> 实验
-
-参考文件树:
-
-```
-├── lab1
-│   ├── README.md
-│   ├── task1.m
-│   ├── task1.png
-│   ├── task2.m
-│   ├── task2_1.png
-│   ├── task2_2.png
-│   ├── task3.m
-│   ├── task3.png
-│   └── 实验一_周期信号的分解与合成.pdf
-├── lab2
-│   └── ...
-└── ...
-```
->>>>>>> 6f98b56656638eaf4011e1c49caeb79e0e0c2d89
+大学物理的实验是独立设课，详见[大学物理实验A](https://hoa.moe/docs/fresh-spring/phys1002a/)和[大学物理实验B](https://hoa.moe/docs/sophomore-autumn/phys1002b/)。
